@@ -1,1 +1,3 @@
-# back-vs-front-node-js-bible
+# Backend vs Frontend Node.js
+
+Example of integration between node.js and Angular
